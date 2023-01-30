@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000 ,
+    "dbURL":"mongodb+srv://Papi:<password>@cluster0.hzjmfba.mongodb.net/?retryWrites=true&w=majority"
+}
